@@ -1,4 +1,10 @@
+domain:nitter.net
 domain:nitter.allella.fr
+domain:nitter.moooi.jp
+domain:nitter.pussthecat.jp
 domain:blogspot.com
 domain:themaproomstudio.com
 domain:responsiblelogistics.com
+domain:firebaseapp.com
+domain:alqaradaghi.com
+domain:nycmechanicalservices.com
